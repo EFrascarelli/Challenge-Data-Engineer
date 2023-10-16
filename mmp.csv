@@ -1,0 +1,48 @@
+app_id,date,campaign_id,campaign_name,media,country,creative_name,event_name,installs,cohort,spend
+app.test,2023-10-01,101,Campaign A,Google Ads,USA,Creative 1,buy_asset,500,2,100
+app.test,2023-10-01,101,Campaign A,Google Ads,USA,Creative 1,buy_asset,500,3,100
+app.test,2023-10-01,101,Campaign A,Google Ads,USA,Creative 1,buy_asset,500,1,100
+app.test,2023-10-01,101,Campaign A,Google Ads,USA,Creative 1,buy_asset,500,0,100
+app.test,2023-10-01,101,Campaign A,Google Ads,USA,Creative 1,buy_asset,500,4,100
+app.delivery,2023-10-01,102,Campaign B,Facebook,UK,Creative 2,buy_asset,300,5,50
+app.delivery,2023-10-01,102,Campaign B,Facebook,UK,Creative 2,buy_asset,300,6,50
+app.delivery,2023-10-01,102,Campaign B,Facebook,UK,Creative 2,buy_asset,300,2,50
+app.delivery@,2023-10-01,102,Campaign B,Facebook,UK,Creative 2,buy_asset,300,1,50
+app.delivery,2023-10-01,102,Campaign B,Facebook,UK,Creative 2,buy_asset,300,3,50
+app.test,2023-10-02,101,Campaign A,Google Ads,Canada,Creative 1,buy_asset,450,3,90
+app.test,2023-10-02,101,Campaign A,Google Ads,Canada,Creative 1,buy_asset,450,4,90
+app.tes%t,2023-10-02,101,Campaign A,Google Ads,Canada,Creative 1,buy_asset,450,2,90
+app.test,2023-10-02,101,Campaign A,Google Ads,Canada,Creative 1,buy_asset,450,0,90
+app.test,2023-10-02,101,Campaign A,Google Ads,Canada,Creative 1,buy_asset,450,5,90
+app.delivery,2023-10-02,103,Campaign C,Instagram,France,Creative 3,buy_asset,600,6,120
+app.delivery,2023-10-02,103,Campaign C,Instagram,France,Creative 3,buy_asset,600,1,120
+app.delivery,2023-10-02,103,Campaign C,Instagram,France,Creative 3,buy_asset,600,2,120
+app.delivery,2023-10-02,103,Campaign C,Instagram,France,Creative 3,buy_asset,600,0,120
+app.delivery,2023-10-02,103,Campaign C,Instagram,France,Creative 3,buy_asset,600,5,120
+app.test,2023-10-03,104,Campaign D,Twitter,Germany,Creative 4,buy_asset,700,1,140
+app.test,2023-10-03,104,Campaign D,Twitter,Germany,Creative 4,buy_asset,700,2,140
+app.test,2023-10-03,104,Campaign D,Twitter,Germany,Creative 4,buy_asset,700,4,140
+app.test,2023-10-03,104,Campaign D,Twitter,Germany,Creative 4,buy_asset,700,6,140
+app.test,2023-10-03,104,Campaign D,Twitter,Germany,Creative 4,buy_asset,700,3,140
+app.delivery,2023-10-03,102,Campaign B,Facebook,USA,Creative 2,buy_asset,550,4,110
+app.delivery,2023-10-03,102,Campaign B,Facebook,USA,Creative 2,buy_asset,550,3,110
+app.delivery,2023-10-03,102,Campaign B,Facebook,USA,Creative 2,buy_asset,550,7,110
+app.delivery#,2023-10-03,102,Campaign B,Facebook,USA,Creative 2,buy_asset,550,5,110
+app.delivery,2023-10-03,102,Campaign B,Facebook,USA,Creative 2,buy_asset,550,1,110
+app.test,2023-10-04,101,Campaign A,Google Ads,UK,Creative 1,buy_asset,480,5,96
+app.test,2023-10-04,101,Campaign A,Google Ads,UK,Creative 1,buy_asset,480,0,96
+app.test,2023-10-04,101,Campaign A,Google Ads,UK,Creative 1,buy_asset,480,2,96
+app.test,2023-10-04,101,Campaign A,Google Ads,UK,Creative 1,buy_asset,480,6,96
+app.test,2023-10-04,101,Campaign A,Google Ads,UK,Creative 1,buy_asset,480,7,96
+app.delivery,2023-10-04,103,Campaign C,Instagram,Canada,Creative 3,buy_asset,520,3,104
+app.delivery,2023-10-04,103,Campaign C,Instagram,Canada,Creative 3,buy_asset,520,7,104
+app.delivery,2023-10-04,103,Campaign C,Instagram,Canada,Creative 3,buy_asset,520,1,104
+app.delivery,2023-10-04,103,Campaign C,Instagram,Canada,Creative 3,buy_asset,520,2,104
+app.delivery,2023-10-04,103,Campaign C,Instagram,Canada,Creative 3,buy_asset,520,5,104
+app.test,2023-10-05,104,Campaign D,Twitter,France,Creative 4,buy_asset,680,2,136
+app.test,2023-10-05,104,Campaign D,Twitter,France,Creative 4,buy_asset,680,6,136
+app.test,2023-10-05,104,Campaign D,Twitter,France,Creative 4,buy_asset,680,4,136
+app.tes^t,2023-10-05,104,Campaign D,Twitter,France,Creative 4,buy_asset,680,7,136
+app.test,2023-10-05,104,Campaign D,Twitter,France,Creative 4,buy_asset,680,1,136
+app.delivery,2023-10-05,102,Campaign B,Facebook,USA,Creative 2,buy_asset,600,0,120
+app.delivery,2023-10-05,102,Campaign B,Facebook,USA,Creative 2,buy_asset,600,

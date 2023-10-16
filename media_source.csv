@@ -1,0 +1,156 @@
+app_id,date,campaign_id,campaign_name,creative_id,creative_name,media_source,country,spend,clicks
+app.test,2023-10-01,101,Campaign A,201,Creative 1,Google Ads,USA,500,100
+app.test,2023-10-01,101,Campaign A,201,Creative 1,Google Ads,USA,500,100
+app.test,2023-10-01,101,Campaign A,201,Creative 1,Google Ads,USA,500,100
+app.test,2023-10-01,101,Campaign A,201,Creative 1,Google Ads,USA,500,100
+app.test,2023-10-01,101,Campaign A,201,Creative 1,Google Ads,USA,500,100
+app.delivery,2023-10-01,102,Campaign B,202,Creative 2,Facebook,UK,300,50
+app.delivery,2023-10-01,102,Campaign B,202,Creative 2,Facebook,UK,300,50
+app.delivery,2023-10-01,102,Campaign B,202,Creative 2,Facebook,UK,300,50
+app.delivery,2023-10-01,102,Campaign B,202,Creative 2,Facebook,UK,300,50
+app.delivery,2023-10-01,102,Campaign B,202,Creative 2,Facebook,UK,300,50
+app.test,2023-10-02,101,Campaign A,201,Creative 1,Google Ads,Canada,450,90
+app.test,2023-10-02,101,Campaign A,201,Creative 1,Google Ads,Canada,450,90
+app.test,2023-10-02,101,Campaign A,201,Creative 1,Google Ads,Canada,450,90
+app.test,2023-10-02,101,Campaign A,201,Creative 1,Google Ads,Canada,450,90
+app.test,2023-10-02,101,Campaign A,201,Creative 1,Google Ads,Canada,450,90
+app.delivery,2023-10-02,103,Campaign C,203,Creative 3,Instagram,France,600,120
+app.delivery,2023-10-02,103,Campaign C,203,Creative 3,Instagram,France,600,120
+app.delivery,2023-10-02,103,Campaign C,203,Creative 3,Instagram,France,600,120
+app.delivery,2023-10-02,103,Campaign C,203,Creative 3,Instagram,France,600,120
+app.delivery,2023-10-02,103,Campaign C,203,Creative 3,Instagram,France,600,120
+app.test,2023-10-03,104,Campaign D,204,Creative 4,Twitter,Germany,700,140
+app.test,2023-10-03,104,Campaign D,204,Creative 4,Twitter,Germany,700,140
+app.test,2023-10-03,104,Campaign D,204,Creative 4,Twitter,Germany,700,140
+app.test,2023-10-03,104,Campaign D,204,Creative 4,Twitter,Germany,700,140
+app.test,2023-10-03,104,Campaign D,204,Creative 4,Twitter,Germany,700,140
+app.delivery,2023-10-03,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-03,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-03,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-03,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-03,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.test,2023-10-04,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-04,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-04,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-04,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-04,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.delivery,2023-10-04,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-04,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-04,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-04,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-04,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.test,2023-10-05,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-05,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-05,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-05,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-05,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.delivery,2023-10-05,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-05,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-05,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-05,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-05,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.test,2023-10-06,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-06,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-06,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-06,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-06,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.delivery,2023-10-06,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-06,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-06,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-06,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-06,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.test,2023-10-07,104,Campaign D,204,Creative 4,Twitter,Germany,700,140
+app.test,2023-10-07,104,Campaign D,204,Creative 4,Twitter,Germany,700,140
+app.test,2023-10-07,104,Campaign D,204,Creative 4,Twitter,Germany,700,140
+app.test,2023-10-07,104,Campaign D,204,Creative 4,Twitter,Germany,700,140
+app.test,2023-10-07,104,Campaign D,204,Creative 4,Twitter,Germany,700,140
+app.delivery,2023-10-07,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-07,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-07,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-07,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-07,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.test,2023-10-08,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-08,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-08,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-08,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-08,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.delivery,2023-10-08,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-08,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-08,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-08,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-08,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.test,2023-10-09,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-09,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-09,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-09,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-09,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.delivery,2023-10-09,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-09,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-09,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-09,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-09,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.test,2023-10-10,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-10,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-10,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-10,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-10,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.delivery,2023-10-10,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-10,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-10,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-10,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-10,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.test,2023-10-11,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-11,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-11,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-11,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-11,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.delivery,2023-10-11,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-11,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-11,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-11,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-11,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.test,2023-10-12,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-12,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-12,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-12,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-12,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.delivery,2023-10-12,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-12,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-12,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-12,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-12,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.test,2023-10-13,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-13,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-13,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-13,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-13,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.delivery,2023-10-13,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-13,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-13,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-13,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-13,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.test,2023-10-14,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-14,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-14,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-14,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-14,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.delivery,2023-10-14,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-14,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-14,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-14,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.delivery,2023-10-14,103,Campaign C,203,Creative 3,Instagram,Canada,520,104
+app.test,2023-10-15,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-15,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-15,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-15,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.test,2023-10-15,104,Campaign D,204,Creative 4,Twitter,France,680,136
+app.delivery,2023-10-15,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-15,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-15,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-15,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.delivery,2023-10-15,102,Campaign B,202,Creative 2,Facebook,USA,550,110
+app.test,2023-10-16,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-16,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-16,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-16,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
+app.test,2023-10-16,101,Campaign A,201,Creative 1,Google Ads,UK,480,96
